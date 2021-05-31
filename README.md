@@ -6,3 +6,4 @@ http://duyan2av.beget.tech/index.php
 https://dropmefiles.com/FuWSP
 <br>Задачи Вожжаева
 все javascript задачки выполнены
+https://vozhzhaev.ru/users/tasks.php?lang=JavaScript
